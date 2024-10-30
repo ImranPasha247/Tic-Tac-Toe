@@ -33,7 +33,7 @@ body{
     cursor : pointer;
     background-color: #ffb753f6;
 }
-#reset{
+.reset{
     margin-top: 2vmin;
     padding: 1rem;
     font-size: 2rem;
@@ -44,6 +44,16 @@ body{
     cursor: pointer;
 }
 .new{
+    margin-top: 2vmin;
+    padding: 1rem;
+    font-size: 1rem;
+    border-radius: 1rem;
+    border:none;
+    background-color: #FFC947;
+    color: #210B2C;
+    cursor: pointer;
+}
+.new2{
     margin-top: 2vmin;
     padding: 1rem;
     font-size: 1rem;
@@ -68,7 +78,7 @@ body{
 .hide{
     display:none;
 }
-/* .msg-draw{
+.msg-draw{
     height: 100vmin;
     display:flex;
     flex-direction:column;
@@ -80,6 +90,6 @@ body{
     color:white;
     font-size: 5vmin;
 }
-.hide-draw{
+.hide{
     display:none;
-} */
+}
