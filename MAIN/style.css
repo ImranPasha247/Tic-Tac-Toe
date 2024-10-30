@@ -33,6 +33,9 @@ body{
     cursor : pointer;
     background-color: #ffb753f6;
 }
+.box:hover{
+    background-color: #FFC947;
+}
 .reset{
     margin-top: 2vmin;
     padding: 1rem;
@@ -42,6 +45,9 @@ body{
     background-color: #FFC947;
     color: #210B2C;
     cursor: pointer;
+}
+.reset:hover{
+    background-color: #ffb753f6;
 }
 .new{
     margin-top: 2vmin;
@@ -53,6 +59,9 @@ body{
     color: #210B2C;
     cursor: pointer;
 }
+.new:hover{
+    background-color: #ffb753f6;
+}
 .new2{
     margin-top: 2vmin;
     padding: 1rem;
@@ -62,6 +71,9 @@ body{
     background-color: #FFC947;
     color: #210B2C;
     cursor: pointer;
+}
+.new2:hover{
+    background-color: #ffb753f6;
 }
 #msg{
     color:white;
